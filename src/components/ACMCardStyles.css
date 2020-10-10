@@ -1,0 +1,54 @@
+/*
+File containing styles for individual card components
+
+Use a copy of this file to style your business card
+*/
+
+#acm-card
+{
+  max-width: 600px;
+  max-height: 280px;
+
+  display: grid;
+  grid-template-columns: 50% 50%;
+
+  padding: 8px;
+
+  overflow-x: visible;
+
+  color: white;
+  background-color: #2f2f2f;
+
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 1px;
+}
+
+#acm-card h1
+{
+  grid-column: 1 / 3;
+
+  text-align: center;
+}
+
+#acm-card-contact-info
+{
+  grid-column: 1;
+}
+
+#acm-card-about-me
+{
+  grid-column: 2;
+  vertical-align: top;
+}
+
+#acm-logo
+{
+  width: 50px;
+  height: 50px;
+
+  grid-column: 1 / 3;
+  text-align: center;
+
+  display: inline-block;
+}
