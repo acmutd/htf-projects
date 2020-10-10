@@ -7,6 +7,7 @@ import ACMCard from './components/ACMCard';
 function App() {
   return (
     <div className="app">
+      {/*You can ignore the <div> below. This is just used to add some contextual info at the top of the page*/}
       <div id="info">
         <h1>React-tionary Business</h1>
         <h4>A webpage dedicated to business cards made in React during <a href="https://www.acmutd.co/">ACM UTD</a>'s <a href="https://hacktoberfest.acmutd.co/">Hacktoberfest</a> event</h4>

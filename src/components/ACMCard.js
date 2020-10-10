@@ -21,7 +21,7 @@ class ACMCard extends Component
         */
         return (
         <div id="acm-card">
-            <span><img id="acm-logo" src={"./images/acm-light-alt.png"}/></span>
+            <span><img id="acm-logo" alt="ACM Logo" src={"./images/acm-light-alt.png"}/></span>
             {/*Replace any 'this.props.attribute' with the name of the attributes you gave in the App.js file!*/}
             <h1>{this.props.name}</h1>
 
