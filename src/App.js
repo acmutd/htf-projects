@@ -16,7 +16,7 @@ function App() {
 
       <div id="business-cards">
         {/*Notice how you can give named attributes to your component!*/}
-        <ACMCard id="acm-card" name="Association for Computing Machinery" email="contact@acmutd.co" phone="555-1234" address="800 West Campbell Road" website="acmutd.co"/>
+        <ACMCard name="Association for Computing Machinery" email="contact@acmutd.co" phone="555-1234" address="800 West Campbell Road" website="acmutd.co"/>
 
         {/*Add your component above this comment to put it into the app!*/}
       </div>
