@@ -13,7 +13,7 @@ In this workshop, you’ll learn the basics of ReactJS’s most important organi
 - Visual Studio Code (recommended text editor)
 
 ## Deployment
-After your pull request is approved, you'll be able to see the finished product at [website name].
+After your pull request is approved, you'll be able to see the finished product at [https://projects.acmutd.co/](https://projects.acmutd.co/).
 
 ## Instructions
 * Clone the repository
