@@ -54,4 +54,9 @@ Use a copy of this file to style your business card
   text-align: center;
 
   display: inline-block;
+}.highlight-blue{
+  color: #00DBFF;
+}
+.highlight{
+  color: #9ccc65;
 }

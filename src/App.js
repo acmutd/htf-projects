@@ -2,7 +2,8 @@ import React from 'react';
 import './App.css';
 
 // Make sure you add an import for your card!
-import SanjeevPCard from './components/SanjeevP.js';
+import ACMCard from './components/ACMCard';
+import SanjeevPCard from './components/SanjeevP';
 
 function App() {
   return (
@@ -16,7 +17,8 @@ function App() {
 
       <div id="business-cards">
         {/*Notice how you can give named attributes to your component!*/}
-        <SanjeevPCard name="Sanjeev Penupala" email="sanjeev.penupala@acmutd.co" phone="(469) 713-7399" address="11105 Blaze Street, Aubrey, TX 76227" website="sanjeevpenupala.dev"/>
+        <ACMCard name="Association for Computing Machinery" email="contact@acmutd.co" phone="555-1234" address="800 West Campbell Road" website="acmutd.co"/>
+        <SanjeevPCard name="Sanjeev Penupala" email="sanjeev.penupala@acmutd.co" phone="713-7399" address="420 Green Hills" website="sanjeevpenupala.dev"/>
 
         {/*Add your component above this comment to put it into the app!*/}
       </div>

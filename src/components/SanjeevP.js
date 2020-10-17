@@ -21,13 +21,13 @@ class SanjeevPCard extends Component
         */
         return (
         <div id="SanjeevP-card">
-            <span><img id="SanjeevP-logo" alt="SanjeevP Logo" src={"./images/SanjeevP-light-alt.png"}/></span>
+            <span><img id="SanjeevP-logo" alt="SanjeevP Logo" src={"./images/sanjeev-square.jpg"}/></span>
             {/*Replace any 'this.props.attribute' with the name of the attributes you gave in the App.js file!*/}
-            <h1>{this.props.name}</h1>
+            <h1 class="highlight-blue">{this.props.name}</h1>
 
             {/*Create your card however you want!*/}
             <div id="SanjeevP-card-contact-info">
-                <h3>Contact Info</h3>
+                <h3 class="highlight">Contact Info</h3>
                 <ul>
                     <li>{this.props.email}</li>
                     <li>{this.props.phone}</li>
@@ -37,10 +37,9 @@ class SanjeevPCard extends Component
             </div>
             
             <div id="SanjeevP-card-about-me">
-                <h3>About Me</h3>
+                <h3 class="highlight">About Me</h3>
                 <p>
-                    Hello! This is the base business card for SanjeevP! We can't wait until your card is up
-                    here with this one.
+                    What's good, fam? It's MrJeevs on the beat! I am ACM Projects Mentor and AIS Director of Operations/Industry (Fun Fact: I am a two-time winner in Projects o.O)
                 </p>
             </div>
         </div>
