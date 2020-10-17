@@ -1,0 +1,61 @@
+/*
+File containing styles for individual card components
+
+Use a copy of this file to style your business card
+*/
+
+#RichardN-card
+{
+  max-width: 600px;
+  max-height: 350px;
+
+  display: grid;
+  grid-template-columns: 50% 50%;
+
+  padding: 8px;
+
+  overflow-x: visible;
+
+  color: white;
+  background-color: #001a33;
+
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 1px;
+}
+
+#RichardN-card h1
+{
+  grid-column: 1 / 3;
+  text-align: left;
+  font-size: medium;
+}
+
+#RichardN-card-contact-info
+{
+  grid-column: 1;
+}
+
+#RichardN-card-about-me
+{
+  grid-column: 2;
+  
+  vertical-align: top;
+  border-radius: 20px;
+  height: 75%;
+}
+
+#RichardN-logo
+{
+  width: 45px;
+  height: 45px;
+
+  grid-column: 1 / 3;
+  text-align: center;
+
+  display: inline-block;
+
+  border-style: ridge;
+  border-radius: 45px;
+  border-width: 1px;
+}
