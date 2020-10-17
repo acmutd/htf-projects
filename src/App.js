@@ -3,6 +3,7 @@ import './App.css';
 
 // Make sure you add an import for your card!
 import ACMCard from './components/ACMCard';
+import AbhishekM from './components/AbhishekM';
 
 function App() {
   return (
@@ -17,7 +18,7 @@ function App() {
       <div id="business-cards">
         {/*Notice how you can give named attributes to your component!*/}
         <ACMCard name="Association for Computing Machinery" email="contact@acmutd.co" phone="555-1234" address="800 West Campbell Road" website="acmutd.co"/>
-
+		<AbhishekM name="Abhishek Amol Mishra" email="abhiamishra0@gmail.com" phone="469-408-9099" address="8819 Rodeo Drive Apt 237" website="acmutd.co"/>
         {/*Add your component above this comment to put it into the app!*/}
       </div>
     </div>
