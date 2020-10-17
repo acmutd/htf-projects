@@ -26,3 +26,5 @@ After your pull request is approved, you'll be able to see the finished product 
 If you need to add an image, such as a logo, place it in the `public/images` folder so that it is accessible to your code.
 
 Contributors: Samuel Nitsch, Jack Sheehan, David Ochoa.
+
+[![Run on Repl.it](https://repl.it/badge/github/spenpal2000/htf-projects)](https://repl.it/github/spenpal2000/htf-projects)
