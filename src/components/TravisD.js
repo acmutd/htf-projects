@@ -39,8 +39,7 @@ class TravisD extends Component
             <div id="TravisD-card-about-me">
                 <h3>About Me</h3>
                 <p>
-                    Hello! This is the base business card for ACM! We can't wait until your card is up
-                    here with this one.
+                    Hello! I'm Travis, a computer science student in the National Merit and Collegium V programs of the UTD Hobson Wildenthal Honors College.
                 </p>
             </div>
         </div>
