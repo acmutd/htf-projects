@@ -40,8 +40,7 @@ class JerryT extends Component
             <div id="JerryT-card-about-me">
                 <h3>About Me</h3>
                 <p>
-                    Hello! This is the base business card for ACM! We can't wait until your card is up
-                    here with this one.
+                    Hello it me jerry
                 </p>
             </div>
         </div>
