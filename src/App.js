@@ -5,6 +5,7 @@ import './App.css';
 import Tu from './components/Tu';
 import GaganBhatCard from './components/GaganBhatCard';
 import ACMCard from './components/ACMCard';
+import AarushiPCard from './components/AarushiP';
 import JesseT from './components/JesseT';
 import AbhishekM from './components/AbhishekM';
 import PaulL from "./components/PaulL";
@@ -32,6 +33,7 @@ function App() {
         <JesseT name = "Jesse Truong" email = "jessetruong4551@gmail.com" phone = "83268077817" address = "14719 East Ginger Spice"/>
         <Tu name="Tu Chu" email="tu.chu@utdallas.edu" phone="123-456-7890" address="800 West Campbell Road" website="N/A" />
         <ACMCard name="Association for Computing Machinery" email="contact@acmutd.co" phone="555-1234" address="800 West Campbell Road" website="acmutd.co"/>
+        <AarushiPCard name="Aarushi Pandey" email="aarushipandey2211@gmail.com" phone="4255535565" address="2400 Waterview Parkway, Richardson, TX " website="www.linkedin.com/in/aarushi-s-pandey/"/>
 		    <AbhishekM name="Abhishek Amol Mishra" email="abhiamishra0@gmail.com" phone="469-408-9099" address="8819 Rodeo Drive Apt 237" website="acmutd.co"/>
         <PaulL name="Paul Lupeituu" email="keahi.lupeituu@gmail.com" website="acmutd.co" />
         <SaiB name="Sai Bommisetty" email="kushalbommi@gmail.com" phone="300-1497" address="6265 Coit Road" website="acmutd.co/projects"/>
