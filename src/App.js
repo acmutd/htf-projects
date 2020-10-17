@@ -53,7 +53,7 @@ function App() {
       <PingKengCard name="Ping-Keng Hsieh" email="pxh190002@utdallas.edu" phone="682-283-XXXX" address="800 West Campbell Road" website="github.com/cookiej4u"/>
       <RichardN name="Richard Noeske" email="yourname@yourdomain.com" phone="N/A" address="1234 Faketown USA" website="projects.acmutd.co"/>
       <AarushiPCard name="Aarushi Pandey" email="aarushipandey2211@gmail.com" phone="4255535565" address="2400 Waterview Parkway, Richardson, TX " website="www.linkedin.com/in/aarushi-s-pandey/"/>
-	    <AbhishekM name="Abhishek Amol Mishra" email="abhiamishra0@gmail.com" phone="469-408-9099" address="8819 Rodeo Drive Apt 237" website="acmutd.co"/>
+      <AbhishekM name="Abhishek Amol Mishra" email="abhiamishra0@gmail.com" phone="469-408-9099" address="8819 Rodeo Drive Apt 237" website="acmutd.co"/>
       <PaulL name="Paul Lupeituu" email="keahi.lupeituu@gmail.com" website="acmutd.co" />
       <SaiB name="Sai Bommisetty" email="kushalbommi@gmail.com" phone="300-1497" address="6265 Coit Road" website="acmutd.co/projects"/>
       <TravisD name="Travis A. Dula" email="travisadula@gmail.com" phone="972.987.9679" address="Plano, TX" website="https://www.linkedin.com/in/travis-dula/"/>
@@ -66,7 +66,6 @@ function App() {
       <NehaRCard name="Neha Rode" email="neha.rode@acmutd.co" phone="540-1451" address="4242 Mulberry Lane" website="disney.com"/>
       <PerryS name="Perry Son" email="pxs190005@utdallas.edu" phone="123-123-1234" address="San Francisco, CA" website="github.com/pxs005"/>
       <SchobbishCard name="Nathan Adam" email="nla190001@utdallas.edu" phone="867-5309" address="2801 Rutford Ave" website="https://a.schobbish.com/in"/>
-	    {/*Add your component above this comment to put it into the app!*/}
       <ACMCardRajmeet name="Rajmeet Juneja" email="rajmeet2001@gmail.com" phone="214-960-7915" address="800 West Campbell Road" website="www.rajmeetjuneja.com"/>
       {/*Add your component above this comment to put it into the app!*/}
       </div>
