@@ -4,6 +4,7 @@ import './App.css';
 // Make sure you add an import for your card!
 import GaganBhatCard from './components/GaganBhatCard';
 import ACMCard from './components/ACMCard';
+import NamT from './components/NamT';
 import FarishahN from './components/FarishahN';
 import AmruthaRCard from './components/AmruthaRCard'
 import VaughanMcInerneyCard from './components/VaughanMcInerney'
@@ -22,6 +23,7 @@ function App() {
       <div id="business-cards">
         {/*Notice how you can give named attributes to your component!*/}
         <ACMCard name="Association for Computing Machinery" email="contact@acmutd.co" phone="555-1234" address="800 West Campbell Road" website="acmutd.co"/>
+        <NamT name ="Nam Truong" email = "namtruong831@gmail.com" phone = "9725236666" address="2226 Jacqueline Dr" website = "acmutd.co"/>
         <FarishahN name="Farishah N" email = "Sample@gmail.com" phone = "123-456-7890" address= "800 W Campbell Rd."  website="acmutd.co" /> 
         <AmruthaRCard name="Amrutha Bhargavi Rajkumar" email="amruthabhargavi95@gmail.com" phone="996-5257" address="4721 Christopher Court" website="https://amrutha-bhargavi.github.io/personal-portfolio/"/>
         <NehaRCard name="Neha Rode" email="neha.rode@acmutd.co" phone="540-1451" address="4242 Mulberry Lane" website="dinsey.com"/>
