@@ -4,8 +4,7 @@ File containing styles for individual card components
 Use a copy of this file to style your business card
 */
 
-#acm-card
-{
+#ved-card {
   max-width: 600px;
   max-height: 350px;
 
@@ -16,7 +15,7 @@ Use a copy of this file to style your business card
 
   overflow-x: visible;
 
-  color: green;
+  color: white;
   background-color: #2f2f2f;
 
   border-style: solid;
@@ -24,29 +23,25 @@ Use a copy of this file to style your business card
   border-width: 1px;
 }
 
-#acm-card h1
-{
+#ved-card h1 {
   grid-column: 1 / 3;
   text-align: left;
   font-size: medium;
 }
 
-#acm-card-contact-info
-{
+#ved-card-contact-info {
   grid-column: 1;
 }
 
-#acm-card-about-me
-{
+#ved-card-about-me {
   grid-column: 2;
-  
+
   vertical-align: top;
   border-radius: 20px;
   height: 75%;
 }
 
-#acm-logo
-{
+#ved-logo {
   width: 50px;
   height: 50px;
 
