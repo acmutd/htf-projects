@@ -1,0 +1,52 @@
+/*Target a specific id using #*/
+#workshops
+{
+    /*Text color*/
+    color: blue;
+
+    /*Size of text. 'px' indicates font size in pixels*/
+    font-size: 50px;
+
+    /*Font and font type*/
+    font-family: "Courier New", Courier, monospace;
+
+    /*Align text. Can be left, center, or right*/
+    text-align: center;
+
+    /*Add padding to element*/
+    padding: 15px;
+
+    /*Add margins around element*/
+    margin: 20px;
+
+    /*Change width of widget. Use % to indicate size relative to width of window*/
+    width: 50%;
+    height: 50%;
+
+    /*Give element borders*/
+    border-width: 10px;
+    border-style: groove;
+    border-color: #083877;
+
+    /*
+    If this element is inside an element that contains the display: grid; property, you
+    can dictate explicitly which row and column this element will go in
+    */
+    grid-row: 5;    /*Put this element in grid row 5*/
+    grid-column: 1; /* Put this element in column 1*/
+
+    /*Elements can also span rows or columns*/
+    grid-row: 1 / 5;
+}
+
+/*Use . to target all elements in a class*/
+.member-cards
+{
+    /*code here*/
+}
+
+/*Use name of tag to target all elements of a specific tag*/
+button
+{
+    /*code here*/
+}
