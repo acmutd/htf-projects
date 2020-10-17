@@ -39,8 +39,7 @@ class EmilyB extends Component
             <div id="EmilyB-card-about-me">
                 <h3>About Me</h3>
                 <p>
-                    Hello! This is the base business card for ACM! We can't wait until your card is up
-                    here with this one.
+                    Hello! I'm Emily Basile! 
                 </p>
             </div>
         </div>
