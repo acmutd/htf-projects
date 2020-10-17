@@ -3,6 +3,7 @@ import './App.css';
 
 // Make sure you add an import for your card!
 import ACMCard from './components/ACMCard';
+import EmilyB from './components/EmilyB';
 
 function App() {
   return (
