@@ -52,7 +52,7 @@ function App() {
         <PingKengCard name="Ping-Keng Hsieh" email="pxh190002@utdallas.edu" phone="682-283-XXXX" address="800 West Campbell Road" website="github.com/cookiej4u"/>
         <RichardN name="Richard Noeske" email="yourname@yourdomain.com" phone="N/A" address="1234 Faketown USA" website="projects.acmutd.co"/>
         <AarushiPCard name="Aarushi Pandey" email="aarushipandey2211@gmail.com" phone="4255535565" address="2400 Waterview Parkway, Richardson, TX " website="www.linkedin.com/in/aarushi-s-pandey/"/>
-		    <AbhishekM name="Abhishek Amol Mishra" email="abhiamishra0@gmail.com" phone="469-408-9099" address="8819 Rodeo Drive Apt 237" website="acmutd.co"/>
+	<AbhishekM name="Abhishek Amol Mishra" email="abhiamishra0@gmail.com" phone="469-408-9099" address="8819 Rodeo Drive Apt 237" website="acmutd.co"/>
         <PaulL name="Paul Lupeituu" email="keahi.lupeituu@gmail.com" website="acmutd.co" />
         <SaiB name="Sai Bommisetty" email="kushalbommi@gmail.com" phone="300-1497" address="6265 Coit Road" website="acmutd.co/projects"/>
         <TravisD name="Travis A. Dula" email="travisadula@gmail.com" phone="972.987.9679" address="Plano, TX" website="https://www.linkedin.com/in/travis-dula/"/>
@@ -60,7 +60,6 @@ function App() {
         <NamT name ="Nam Truong" email = "namtruong831@gmail.com" phone = "9725236666" address="2226 Jacqueline Dr" website = "acmutd.co"/>
         <FarishahN name="Farishah N" email = "Sample@gmail.com" phone = "123-456-7890" address= "800 W Campbell Rd."  website="acmutd.co" /> 
         <AmruthaRCard name="Amrutha Bhargavi Rajkumar" email="amruthabhargavi95@gmail.com" phone="996-5257" address="4721 Christopher Court" website="https://amrutha-bhargavi.github.io/personal-portfolio/"/>
-        <NehaRCard name="Neha Rode" email="neha.rode@acmutd.co" phone="540-1451" address="4242 Mulberry Lane" website="dinsey.com"/>
         <VaughanMcInerneyCard name="Vaughan McInerney" email="vmm190002@utdallas.edu" phone="(000) 000-0000" address="Richardson, TX" website="github.com/vmm20"/>
         <GaganBhatCard name="Gagan Bhat" email="gaganbhat6@gmail.com" phone="XXX-XXX-XXXX" address="2501 Ohio Dr. Plano, TX" website="http://gaganbhat.me/"/>
         <NehaRCard name="Neha Rode" email="neha.rode@acmutd.co" phone="540-1451" address="4242 Mulberry Lane" website="disney.com"/>
