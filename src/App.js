@@ -5,6 +5,7 @@ import './App.css';
 import Tu from './components/Tu';
 import GaganBhatCard from './components/GaganBhatCard';
 import ACMCard from './components/ACMCard';
+import SanjeevPCard from './components/SanjeevP';
 import PingKengCard from './components/pingkeng';
 import RichardN from './components/RichardN';
 import AarushiPCard from './components/AarushiP';
@@ -35,6 +36,7 @@ function App() {
         <JesseT name = "Jesse Truong" email = "jessetruong4551@gmail.com" phone = "83268077817" address = "14719 East Ginger Spice"/>
         <Tu name="Tu Chu" email="tu.chu@utdallas.edu" phone="123-456-7890" address="800 West Campbell Road" website="N/A" />
         <ACMCard name="Association for Computing Machinery" email="contact@acmutd.co" phone="555-1234" address="800 West Campbell Road" website="acmutd.co"/>
+        <SanjeevPCard name="Sanjeev Penupala" email="sanjeev.penupala@acmutd.co" phone="713-7399" address="420 Green Hills" website="sanjeevpenupala.dev"/>
         <PingKengCard name="Ping-Keng Hsieh" email="pxh190002@utdallas.edu" phone="682-283-XXXX" address="800 West Campbell Road" website="github.com/cookiej4u"/>
         <RichardN name="Richard Noeske" email="yourname@yourdomain.com" phone="N/A" address="1234 Faketown USA" website="projects.acmutd.co"/>
         <AarushiPCard name="Aarushi Pandey" email="aarushipandey2211@gmail.com" phone="4255535565" address="2400 Waterview Parkway, Richardson, TX " website="www.linkedin.com/in/aarushi-s-pandey/"/>
