@@ -5,6 +5,7 @@ import './App.css';
 import Tu from './components/Tu';
 import GaganBhatCard from './components/GaganBhatCard';
 import ACMCard from './components/ACMCard';
+import Jadendick from './components/jadendick';
 import VedSCard from './components/VedS';
 import LizW from './components/LizW';
 import MitchA from './components/MitchA'
@@ -39,6 +40,7 @@ function App() {
         <JesseT name = "Jesse Truong" email = "jessetruong4551@gmail.com" phone = "83268077817" address = "14719 East Ginger Spice"/>
         <Tu name="Tu Chu" email="tu.chu@utdallas.edu" phone="123-456-7890" address="800 West Campbell Road" website="N/A" />
         <ACMCard name="Association for Computing Machinery" email="contact@acmutd.co" phone="555-1234" address="800 West Campbell Road" website="acmutd.co"/>
+        <Jadendick name="jaden" email="email@email.com" phone="384383983443534534" address="itd" website="acmutd.co" />
         <VedSCard name="Ved Sharma" email="vss190005@utdallas.edu" phone="1234567890" address="101 Market Street" website="example.com"/>
         <LizW name="Liz Wigglesworth" github="lizgw" email="liz.wigglesworth@gmail.com" website="lizgw.github.io"/>
         <MitchA name ="Mitchell Ament" email = "mitchgament@gmail.com" phone = "425-503-7277" address = "Plano, TX" website="github.com/MitchAment"/>
