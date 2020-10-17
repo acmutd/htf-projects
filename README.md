@@ -16,7 +16,7 @@ In this workshop, you’ll learn the basics of ReactJS’s most important organi
 After your pull request is approved, you'll be able to see the finished product at [https://projects.acmutd.co/](https://projects.acmutd.co/).
 
 ## Instructions
-* Clone the repository
+* Fork the repository
 * Clone the ACMCard.js and ACMCardStyles.css files in the `src/components` folder. Rename them to something unique, e.g.
 * Change the name of the component in [your-file-name].js to whatever you want
 * Change the code in [your-file-name].js and [your-file-name].css to customize your business card
@@ -24,3 +24,5 @@ After your pull request is approved, you'll be able to see the finished product 
 * Create a pull request for your changes to be added to the GH repo
 
 If you need to add an image, such as a logo, place it in the `public/images` folder so that it is accessible to your code.
+
+Contributors: Samuel Nitsch, Jack Sheehan, David Ochoa.
