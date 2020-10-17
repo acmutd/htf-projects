@@ -42,7 +42,6 @@ function App() {
         <JesseT name = "Jesse Truong" email = "jessetruong4551@gmail.com" phone = "83268077817" address = "14719 East Ginger Spice"/>
         <Tu name="Tu Chu" email="tu.chu@utdallas.edu" phone="123-456-7890" address="800 West Campbell Road" website="N/A" />
         <ACMCard name="Association for Computing Machinery" email="contact@acmutd.co" phone="555-1234" address="800 West Campbell Road" website="acmutd.co"/>
-        <SchobbishCard name="Nathan Adam" email="nla190001@utdallas.edu" phone="867-5309" address="2801 Rutford Ave" website="https://a.schobbish.com/in"/>
         <EmilyB name="Emily Basile" email="ebb160130@utdallas.edu" phone="666-666" address="800 West Campbell Road" website="https://github.com/kree666"/>
         <Jadendick name="jaden" email="email@email.com" phone="384383983443534534" address="itd" website="acmutd.co" />
         <VedSCard name="Ved Sharma" email="vss190005@utdallas.edu" phone="1234567890" address="101 Market Street" website="example.com"/>
@@ -63,7 +62,8 @@ function App() {
         <VaughanMcInerneyCard name="Vaughan McInerney" email="vmm190002@utdallas.edu" phone="(000) 000-0000" address="Richardson, TX" website="github.com/vmm20"/>
         <GaganBhatCard name="Gagan Bhat" email="gaganbhat6@gmail.com" phone="XXX-XXX-XXXX" address="2501 Ohio Dr. Plano, TX" website="http://gaganbhat.me/"/>
         <NehaRCard name="Neha Rode" email="neha.rode@acmutd.co" phone="540-1451" address="4242 Mulberry Lane" website="disney.com"/>
-        {/*Add your component above this comment to put it into the app!*/}
+        <SchobbishCard name="Nathan Adam" email="nla190001@utdallas.edu" phone="867-5309" address="2801 Rutford Ave" website="https://a.schobbish.com/in"/>
+	 {/*Add your component above this comment to put it into the app!*/}
       </div>
     </div>
   );
