@@ -15,7 +15,8 @@ Use a copy of this file to style your business card
   padding: 8px;
 
   overflow-x: visible;
-
+  
+  text-shadow: 2px 2px #FFFFFF;
   color: black;
   background-color: #7FFFD4;
 
