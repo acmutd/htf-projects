@@ -27,6 +27,7 @@ import AmruthaRCard from './components/AmruthaRCard'
 import VaughanMcInerneyCard from './components/VaughanMcInerney'
 import NehaRCard from './components/NehaR';
 import ACMCardRajmeet from './components/ACMCardRajmeet';
+import PerryS from './components/PerryS';
 
 function App() {
   return (
@@ -63,6 +64,7 @@ function App() {
       <VaughanMcInerneyCard name="Vaughan McInerney" email="vmm190002@utdallas.edu" phone="(000) 000-0000" address="Richardson, TX" website="github.com/vmm20"/>
       <GaganBhatCard name="Gagan Bhat" email="gaganbhat6@gmail.com" phone="XXX-XXX-XXXX" address="2501 Ohio Dr. Plano, TX" website="http://gaganbhat.me/"/>
       <NehaRCard name="Neha Rode" email="neha.rode@acmutd.co" phone="540-1451" address="4242 Mulberry Lane" website="disney.com"/>
+      <PerryS name="Perry Son" email="pxs190005@utdallas.edu" phone="123-123-1234" address="San Francisco, CA" website="github.com/pxs005"/>
       <SchobbishCard name="Nathan Adam" email="nla190001@utdallas.edu" phone="867-5309" address="2801 Rutford Ave" website="https://a.schobbish.com/in"/>
 	    {/*Add your component above this comment to put it into the app!*/}
       <ACMCardRajmeet name="Rajmeet Juneja" email="rajmeet2001@gmail.com" phone="214-960-7915" address="800 West Campbell Road" website="www.rajmeetjuneja.com"/>
