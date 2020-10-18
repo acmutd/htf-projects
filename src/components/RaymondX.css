@@ -1,0 +1,51 @@
+/*
+File containing styles for individual card components
+
+Use a copy of this file to style your business card
+*/
+
+#RaymondX-card
+{
+  max-width: 500px;
+  max-height: 500px;
+
+  display: grid;
+  grid-template-columns: 50% 50%;
+
+  padding: 8px;
+
+  overflow-x: visible;
+
+  color: rgb(255, 255, 255);
+  background-color: #25270e;
+
+  border-style: solid;
+  border-radius: 12px;
+  border-width: 1px;
+}
+
+#RaymondX-card h1
+{
+  grid-column: 1 / 3;
+  text-align: left;
+  font-size: medium;
+}
+
+#RaymondX-card-contact-info {
+    grid-column: 1;
+}
+
+#RaymondX-card-about-me {
+    grid-column: 2;
+    vertical-align: top;
+    border-radius: 20px;
+    height: 75%;
+}
+
+#RaymondX-logo {
+    width: 50px;
+    height: 50px;
+    grid-column: 1 / 3;
+    text-align: center;
+    display: inline-block;
+}
