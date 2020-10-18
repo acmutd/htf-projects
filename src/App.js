@@ -58,7 +58,6 @@ function App() {
       <PaulL name="Paul Lupeituu" email="keahi.lupeituu@gmail.com" website="acmutd.co" />
       <SaiB name="Sai Bommisetty" email="kushalbommi@gmail.com" phone="300-1497" address="6265 Coit Road" website="acmutd.co/projects"/>
       <TravisD name="Travis A. Dula" email="travisadula@gmail.com" phone="972.987.9679" address="Plano, TX" website="https://www.linkedin.com/in/travis-dula/"/>
-      <JerryT name="Jerry Teng" email="Jerry.Teng@UTDallas.edu" phone="917-915-6555" address="2400 Waterview Parkway" linkedin="https://www.linkedin.com/in/jerryteng01/" website="https://csg.utdallas.edu/"/>
       <NamT name ="Nam Truong" email = "namtruong831@gmail.com" phone = "9725236666" address="2226 Jacqueline Dr" website = "acmutd.co"/>
       <FarishahN name="Farishah N" email = "Sample@gmail.com" phone = "123-456-7890" address= "800 W Campbell Rd."  website="acmutd.co" /> 
       <AmruthaRCard name="Amrutha Bhargavi Rajkumar" email="amruthabhargavi95@gmail.com" phone="996-5257" address="4721 Christopher Court" website="https://amrutha-bhargavi.github.io/personal-portfolio/"/>
@@ -68,6 +67,7 @@ function App() {
       <PerryS name="Perry Son" email="pxs190005@utdallas.edu" phone="123-123-1234" address="San Francisco, CA" website="github.com/pxs005"/>
       <ACMCardRajmeet name="Rajmeet Juneja" email="rajmeet2001@gmail.com" phone="214-960-7915" address="800 West Campbell Road" website="www.rajmeetjuneja.com"/>
       <PeiyunT name="Pei-Yun Tseng" email="pxt190024@utdallas.edu" phone="512-206-6162" address="1600 Amelia Court" website="acmutd.co"/>
+      <JerryT name="Jerry Teng" email="Jerry.Teng@UTDallas.edu" phone="917-915-6555" address="2400 Waterview Parkway" linkedin="https://www.linkedin.com/in/jerryteng01/" website="https://csg.utdallas.edu/"/>
       <SchobbishCard name="Nathan Adam" email="nla190001@utdallas.edu" phone="867-5309" address="2801 Rutford Ave" website="https://a.schobbish.com/in"/>
         {/*Add your component above this comment to put it into the app!*/}
       </div>
