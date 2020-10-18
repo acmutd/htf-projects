@@ -28,6 +28,7 @@ import VaughanMcInerneyCard from './components/VaughanMcInerney'
 import NehaRCard from './components/NehaR';
 import ACMCardRajmeet from './components/ACMCardRajmeet';
 import PerryS from './components/PerryS';
+import PeiyunT from './components/PeiyunT';
 
 function App() {
   return (
@@ -67,7 +68,9 @@ function App() {
       <PerryS name="Perry Son" email="pxs190005@utdallas.edu" phone="123-123-1234" address="San Francisco, CA" website="github.com/pxs005"/>
       <SchobbishCard name="Nathan Adam" email="nla190001@utdallas.edu" phone="867-5309" address="2801 Rutford Ave" website="https://a.schobbish.com/in"/>
       <ACMCardRajmeet name="Rajmeet Juneja" email="rajmeet2001@gmail.com" phone="214-960-7915" address="800 West Campbell Road" website="www.rajmeetjuneja.com"/>
-      {/*Add your component above this comment to put it into the app!*/}
+      <PeiyunT name="Pei-Yun Tseng" email="pxt190024@utdallas.edu" phone="512-206-6162" address="1600 Amelia Court" website="acmutd.co"/>
+
+        {/*Add your component above this comment to put it into the app!*/}
       </div>
     </div>
   );
