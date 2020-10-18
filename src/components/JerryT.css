@@ -9,6 +9,9 @@ Use a copy of this file to style your business card
   max-width: 600px;
   max-height: 350px;
 
+  width: 600px;
+  height: 350px;
+
   display: grid;
   grid-template-columns: 50% 50%;
 
