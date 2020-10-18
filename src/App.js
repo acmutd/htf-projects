@@ -66,10 +66,9 @@ function App() {
       <GaganBhatCard name="Gagan Bhat" email="gaganbhat6@gmail.com" phone="XXX-XXX-XXXX" address="2501 Ohio Dr. Plano, TX" website="http://gaganbhat.me/"/>
       <NehaRCard name="Neha Rode" email="neha.rode@acmutd.co" phone="540-1451" address="4242 Mulberry Lane" website="disney.com"/>
       <PerryS name="Perry Son" email="pxs190005@utdallas.edu" phone="123-123-1234" address="San Francisco, CA" website="github.com/pxs005"/>
-      <SchobbishCard name="Nathan Adam" email="nla190001@utdallas.edu" phone="867-5309" address="2801 Rutford Ave" website="https://a.schobbish.com/in"/>
       <ACMCardRajmeet name="Rajmeet Juneja" email="rajmeet2001@gmail.com" phone="214-960-7915" address="800 West Campbell Road" website="www.rajmeetjuneja.com"/>
       <PeiyunT name="Pei-Yun Tseng" email="pxt190024@utdallas.edu" phone="512-206-6162" address="1600 Amelia Court" website="acmutd.co"/>
-
+      <SchobbishCard name="Nathan Adam" email="nla190001@utdallas.edu" phone="867-5309" address="2801 Rutford Ave" website="https://a.schobbish.com/in"/>
         {/*Add your component above this comment to put it into the app!*/}
       </div>
     </div>
