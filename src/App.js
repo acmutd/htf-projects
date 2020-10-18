@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 
 // Make sure you add an import for your card!
-import ACMCard from './components/ACMCard'
+import ACMCard from './components/ACMCard';
 import PeiyunT from './components/PeiyunT';
 
 function App() {
