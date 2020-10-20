@@ -30,6 +30,7 @@ import NehaRCard from './components/NehaR';
 import ACMCardRajmeet from './components/ACMCardRajmeet';
 import PerryS from './components/PerryS';
 import PeiyunT from './components/PeiyunT';
+import KendalW from './components/KendalW';
 
 function App() {
   return (
@@ -71,6 +72,7 @@ function App() {
         <PeiyunT name="Pei-Yun Tseng" email="pxt190024@utdallas.edu" phone="512-206-6162" address="1600 Amelia Court" website="acmutd.co"/>
         <JerryT name="Jerry Teng" email="Jerry.Teng@UTDallas.edu" phone="917-915-6555" address="2400 Waterview Parkway" linkedin="https://www.linkedin.com/in/jerryteng01/" website="https://csg.utdallas.edu/"/>
         <SchobbishCard name="Nathan Adam" email="nla190001@utdallas.edu" phone="867-5309" address="2801 Rutford Ave" website="https://a.schobbish.com/in"/>
+        <KendalW name="Kendal Wiggins" email="kendal.wiggins@utdallas.edu" phone="" address="800 W Campbell Rd, Richardson, TX 75080" website="acmutd.co/projects"/>
         {/*Add your component above this comment to put it into the app!*/}
       </div>
     </div>
