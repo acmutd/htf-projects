@@ -2,7 +2,7 @@
 import React, { Component } from 'react';
 
 // Make sure to update this import to the name of your CSS file!
-import "./ACMCardStyles.css";
+import "./KendalW.css";
 
 /*
 This is a general class that you can use as a template to create your card! Make sure you make a copy
@@ -11,7 +11,7 @@ of the file before editing it
 Change the name "ACMCard" to some other valid identifier name. This way, your unique
 component won't interfere with the names of anyone else's card.
 */
-class ACMCard extends Component
+class KendalW extends Component
 {
     render()
     {
@@ -20,13 +20,13 @@ class ACMCard extends Component
         allows us to actually build our component.
         */
         return (
-        <div id="acm-card">
-            <span><img id="acm-logo" alt="ACM Logo" src={"./images/acm-light-alt.png"}/></span>
+        <div id="KendalW-card">
+            <span><img id="acm-logo" alt="ACM Logo" src={"./images/tobortemp.png"}/></span>
             {/*Replace any 'this.props.attribute' with the name of the attributes you gave in the App.js file!*/}
             <h1>{this.props.name}</h1>
 
             {/*Create your card however you want!*/}
-            <div id="acm-card-contact-info">
+            <div id="KendalW-card-contact-info">
                 <h3>Contact Info</h3>
                 <ul>
                     <li>{this.props.email}</li>
@@ -36,7 +36,7 @@ class ACMCard extends Component
                 </ul>
             </div>
             
-            <div id="acm-card-about-me">
+            <div id="KendalW-card-about-me">
                 <h3>About Me</h3>
                 <p>
                     Hello! This is the base business card for ACM! We can't wait until your card is up
@@ -50,4 +50,4 @@ class ACMCard extends Component
 }
 
 // Make sure to update this export with the name of the above class
-export default ACMCard;
+export default KendalW;
