@@ -31,7 +31,7 @@ import ACMCardRajmeet from './components/ACMCardRajmeet';
 import PerryS from './components/PerryS';
 import PeiyunT from './components/PeiyunT';
 import KendalW from './components/KendalW';
-import DanielH from '.components/DanielH';
+import DanielH from './components/DanielH';
 
 function App() {
   return (
