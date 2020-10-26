@@ -31,6 +31,7 @@ import ACMCardRajmeet from './components/ACMCardRajmeet';
 import PerryS from './components/PerryS';
 import PeiyunT from './components/PeiyunT';
 import KendalW from './components/KendalW';
+import DanielH from '.components/DanielH';
 
 function App() {
   return (
@@ -73,6 +74,7 @@ function App() {
         <JerryT name="Jerry Teng" email="Jerry.Teng@UTDallas.edu" phone="917-915-6555" address="2400 Waterview Parkway" linkedin="https://www.linkedin.com/in/jerryteng01/" website="https://csg.utdallas.edu/"/>
         <SchobbishCard name="Nathan Adam" email="nla190001@utdallas.edu" phone="867-5309" address="2801 Rutford Ave" website="https://a.schobbish.com/in"/>
         <KendalW name="Kendal Wiggins" email="kendal.wiggins@utdallas.edu" phone="1-1" address="800 W Campbell Rd, Richardson, TX 75080" website="acmutd.co/projects"/>
+        <DanielH name="Daniel Honrales" email="dhh190000@utdallas.edu" phone="469-212-2559" address="1521 Tanglewood Drive, Allen, TX 75002" website="https://www.linkedin.com/in/daniel-honrales-5966a11b7/"/>
         {/*Add your component above this comment to put it into the app!*/}
       </div>
     </div>
