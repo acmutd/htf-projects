@@ -32,7 +32,7 @@ import PerryS from './components/PerryS';
 import PeiyunT from './components/PeiyunT';
 import KendalW from './components/KendalW';
 import DanielH from './components/DanielH';
-import andrewT from './components/AndrewT';
+import AndrewT from './components/AndrewT';
 import BrianL from './components/BrianL';
 
 function App() {
