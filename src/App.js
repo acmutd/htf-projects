@@ -32,6 +32,7 @@ import PerryS from './components/PerryS';
 import PeiyunT from './components/PeiyunT';
 import KendalW from './components/KendalW';
 import DanielH from './components/DanielH';
+import BrianL from './components/BrianL';
 
 function App() {
   return (
@@ -75,6 +76,7 @@ function App() {
         <SchobbishCard name="Nathan Adam" email="nla190001@utdallas.edu" phone="867-5309" address="2801 Rutford Ave" website="https://a.schobbish.com/in"/>
         <KendalW name="Kendal Wiggins" email="kendal.wiggins@utdallas.edu" phone="1-1" address="800 W Campbell Rd, Richardson, TX 75080" website="acmutd.co/projects"/>
         <DanielH name="Daniel Honrales" email="dhh190000@utdallas.edu" phone="469-212-2559" address="1521 Tanglewood Drive, Allen, TX 75002" website="https://www.linkedin.com/in/daniel-honrales-5966a11b7/"/>
+        <BrianL name = "Brian Lam" email = "brian.lam@utdallas.edu" phone = "123-456-7890" address = "Dallas, TX" website = "acmutd.co"/>
         {/*Add your component above this comment to put it into the app!*/}
       </div>
     </div>
